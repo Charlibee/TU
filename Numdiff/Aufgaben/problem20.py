@@ -32,5 +32,5 @@ def generate_butcher_tableau(N, method_type='closed'):
         print(row)
 
 
-generate_butcher_tableau(1, 'closed')
-#generate_butcher_tableau(1, 'open')
+#generate_butcher_tableau(1, 'closed')
+generate_butcher_tableau(1, 'open')
